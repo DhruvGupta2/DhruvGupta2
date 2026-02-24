@@ -97,10 +97,10 @@
 
 <table>
 <tr>
-<td align="center" width="60%">
+<td align="center" width="65%">
   <img width="100%" src="https://streak-stats.demolab.com?user=DhruvGupta2&theme=tokyonight"/>
 </td>
-<td align="center" width="40%">
+<td align="center" width="35%">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvGupta2&theme=tokyonight"/>
 </td>
 </tr>
